@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Antonio Piga
+# Hi there 👋
 
 ## Backend Engineer | Certified AWS Cloud Solutions Architect | Java Backend Engineer
 
