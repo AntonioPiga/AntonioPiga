@@ -1,7 +1,10 @@
 # Hello there from Antonio Piga!👋
 
 ## 
+
 <div align="center">
+ <span style="color:blue">some *blue* text</span>.
+
  <span style="color:green">Backend Engineer</span> | <span style="color:white">Certified AWS Cloud Solutions Architect</span> | <span style="color:red">Java Backend Engineer</span>
 </div>
 
