@@ -1,7 +1,9 @@
 # Hello there from Antonio Piga!👋
 
 ## 
-<font color=green>Backend Engineer</font> | <font color=white>Certified AWS Cloud Solutions Architect</font> | <font color=red>Java Backend Engineer</font>
+<div align="center">
+ <span style="color:green">Backend Engineer</span> | <span style="color:white">Certified AWS Cloud Solutions Architect</span> | <span style="color:red">Java Backend Engineer</span>
+</div>
 
 ### About Me
 
