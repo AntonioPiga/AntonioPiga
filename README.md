@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there Antonio Piga👋
 
-## Backend Engineer | Certified AWS Cloud Solutions Architect | Java Backend Engineer
+## Backend Engineer | Solutions Architect | Tech leader
 
 ### About Me
 
-I'm a passionate software engineer currently serving as the backend engineer at Engineering SPA since May 2021. 
+I'm a passionate software engineer who began my journey in May 2021 when I started my first projects at BE Digitech (Engineering SPA). Nowadays, I work as a tech lead for Step4Business and Azimut Marketplace, and as a Solutions Architect for Nuvolaris Inc
 
 Certified as an AWS Cloud Solutions Architect and Java Backend Engineer by JetBrains, I thrive in remote work environments and am open to exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopiga/) for professional inquiries.
 
@@ -27,11 +27,7 @@ Coding isn't just a profession for me; it's a passion. I particularly enjoy codi
 
 - LinkedIn: [Antonio Piga](https://www.linkedin.com/in/antoniopiga/)
 - GitHub: [AntonioPiga](https://github.com/AntonioPiga)
-
-### Notion Public Site
-
-Explore more about me on my [Notion public site](https://antoniopiga.notion.site/Who-Am-I-577be1becd044a5eae9d549fe65affcc?pvs=4).
-
+  
 ---
 <div align="center">
   
