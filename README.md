@@ -1,14 +1,13 @@
 # Hello there from Antonio Piga!👋
 
-## 
-<div align="center">
- <span style="color:green">Backend Engineer</span> | <span style="color:white">Certified AWS Cloud Solutions Architect</span> | <span style="color:red">Java Backend Engineer</span>
-</div>
+##
+
+- **Backend Engineer** <span style="color:green">Backend Engineer</span>
+- **Certified AWS Cloud Solutions Architect** <span style="color:white">Certified AWS Cloud Solutions Architect</span>
+- **Java Backend Engineer** <span style="color:red">Java Backend Engineer</span>
 
 ### About Me
 
-
-### About Me
 
 I'm a passionate software engineer who began my journey in May 2021 when I started my first projects at BE Digitech (Engineering SPA). Nowadays, I work as a tech lead for Step4Business and Azimut Marketplace, and as a Solutions Architect for Nuvolaris Inc
 
