@@ -1,4 +1,4 @@
-# Hello there from Antonio Piga!👋
+# Hello from Antonio Piga!👋
 
 ## 
 
@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a passionate software engineer who began my journey in May 2021 when I started my first projects at BE Digitech (Engineering SPA). Nowadays, I work as a tech lead for Step4Business and Azimut Marketplace, and as a Solutions Architect for Nuvolaris Inc
+I'm a passionate software engineer who began my journey in May 2021 when I started my first projects at BE Digitech (Engineering SPA). Nowadays, I work as a tech lead for Step4Business and Azimut Marketplace, and as a Solutions Architect and Developer for Nuvolaris Inc
 
 Certified as an AWS Cloud Solutions Architect and Java Backend Engineer by JetBrains, I thrive in remote work environments and am open to exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopiga/) for professional inquiries.
 
