@@ -22,6 +22,7 @@ I've tackled various projects throughout my career, including various projects a
 ### Coding Passion
 
 Coding isn't just a profession for me: it's a passion.
+
 I particularly enjoy coding games and challenging myself on platforms like CodeWars, where I proudly hold a blue belt. 🥋 Feel free to challenge me or discuss anything related to coding and gaming!
 
 ### Personal Details
