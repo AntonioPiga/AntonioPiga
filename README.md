@@ -11,7 +11,7 @@
 
 I'm a passionate software engineer who began my journey in May 2021 when I started my first project at BE Digitech (Engineering SPA). Nowadays, I work as tech lead for Step4Business and Azimut Marketplace, and as Solutions Architect and Developer for Nuvolaris Inc
 
-Certified as an AWS Cloud Solutions Architect and Java Backend Engineer by JetBrains, I thrive in remote work environments and am open to exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopiga/) for professional inquiries.
+Certified as an AWS Cloud Solutions Architect from 2023 and Java Backend Engineer by JetBrains, I thrive in remote work environments and am open to exciting projects. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/antoniopiga/) for professional inquiries.
 
 Beyond the realm of coding, I hold a degree in philosophy and literature. When I'm not crafting code, you can find me immersed in a game of chess or trekking through the mountains, finding inspiration in nature's beauty. I'm also an aspiring sommelier with a passion for wine.
 
