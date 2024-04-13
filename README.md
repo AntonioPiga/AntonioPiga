@@ -56,4 +56,4 @@ I particularly enjoy coding games and challenging myself on platforms like CodeW
 
 </div>
 
-P.S. If you share an interest in philosophy, literature, or enjoy a good game of chess, let's connect! Antonio Piga is your go-to guy. 📚♟️
+P.S. If you share an interest in philosophy, literature, or enjoy a good game of chess, let's connect! Antonio Piga is your go-to guy! 📚♟️
