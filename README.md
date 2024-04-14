@@ -1,7 +1,7 @@
 # Hello from Antonio Piga!👋
 
 <div align="center">
- <span > Backend Engineer</span> | <span > Certified AWS Cloud Solutions Architect</span> | Java Backend Engineer</span>
+ <span > Backend Engineer</span> | <span > AWS Cloud Solutions Architect</span> | Java Backend Engineer</span>
 </div>
 
 ### About Me
