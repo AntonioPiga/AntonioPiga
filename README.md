@@ -32,6 +32,7 @@ I particularly enjoy coding games and challenging myself on platforms like CodeW
 - GitHub: [AntonioPiga](https://github.com/AntonioPiga)
   
 ---
+
 <div align="center">
   
   ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
