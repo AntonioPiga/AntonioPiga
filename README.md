@@ -1,7 +1,7 @@
 # Hello from Antonio Piga!👋
 
 <div align="center">
- <span> Backend Engineer </span> | <span > AWS Cloud Solutions Architect</span> |<span>Java Backend Engineer </span><span> Serverless lover </span> </span>
+ <span> Backend Engineer </span> | <span > AWS Cloud Solutions Architect</span> | <span> Java Backend Engineer </span> | <span> Serverless lover </span> </span>
 </div>
 
 ### About Me
