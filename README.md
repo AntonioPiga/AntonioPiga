@@ -14,7 +14,7 @@ Beyond the realm of coding, I hold a degree in philosophy and literature. When I
 
 ### Projects
 
-I've tackled various projects throughout my career, including various projects at Engineering SPA (Nexi, Cotral, Azimut), backend development for Step4Business and Solution Architect for Nuvolaris. My commitment to quality and efficiency ensures successful project delivery and client satisfaction.
+I've tackled various projects throughout my career, including various projects at Engineering SPA (Nexi, Cotral, Azimut), backend development for Azimut and Solution Architect for Nuvolaris. My commitment to quality and efficiency ensures successful project delivery and client satisfaction.
 
 ### Coding Passion
 
